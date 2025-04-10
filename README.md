@@ -9,6 +9,7 @@ This is a personal repository where I store code used for graduate school projec
 ---
 
 🐆 I'm currently learning more about apex predator ecology and how to digitally model complex adaptive systems such as tropical rainforests.
+
 🛰️ I'm currently working on using deep learning methods to identify areas with high restoration potential.
 
 I graduated with a M.S. in Agroecology from the University of Florida 🐊 and recently began a PhD in Ecology at Oregon State University 🦫 If you are interested in collaborating, please reach out!
